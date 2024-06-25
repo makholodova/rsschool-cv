@@ -2,15 +2,19 @@
 
 ## Kholodova Marina
 
+***
+
 ### Contact Info:
 
-e-mail: marinaholodova927@gmail.com
+**e-mail:** marinaholodova927@gmail.com
 
-telegram:makholodova
+**telegram:** makholodova
 
-github: makholodova
+**github:** makholodova
 
-discord: Marina Kholodova
+**discord:** Marina Kholodova
+
+***
 
 ### Summary
 
@@ -21,17 +25,21 @@ I started my journey by studying backend development in C#.
 Currently, I am actively working on my own projects, which can be found on my GitHub [makholodova](https://github.com/makholodova "makholodova").
 To improve my skills and portfolio, I actively study new technologies
 
+***
+
 ### Skills
 
-HTML5,CSS3, (SASS/SCSS)
-JavaScript Basics
-React JS
-Vue JS/ Nuxt.js/ Vuetify3.js
-RESTApi, axios
-Figma,PerfectPixel
-C#
-Version control: Git (remote service GitHub)
-Visual Studio, VS Code, Rider, WebStorm
+* HTML5,CSS3, (SASS/SCSS)
+* JavaScript Basics
+* React JS
+* Vue JS/ Nuxt.js/ Vuetify3.js
+* RESTApi, axios
+* Figma,PerfectPixel
+* C#
+* Version control: Git (remote service GitHub)
+* Visual Studio, VS Code, Rider, WebStorm
+
+***
 
 ### Code examples
 
@@ -74,21 +82,27 @@ Visual Studio, VS Code, Rider, WebStorm
     }
 ```
 
+***
+
 ### Experience
 
 I've two projects:
 
-Backend - ASP.NET Core, Frontend - Vue3.js using Vuetify.
-Links to my
-GitHub: [Backend-flight-scoreboard](https://github.com/makholodova/flight-scoreboard "Backend"), [Frontend-flight-scoreboard](https://github.com/makholodova/flight-scoreboard-client "Frontend")
+1. Backend - ASP.NET Core, Frontend - Vue3.js using Vuetify.
+   Links to my
+   GitHub: [Backend-flight-scoreboard](https://github.com/makholodova/flight-scoreboard "Backend"), [Frontend-flight-scoreboard](https://github.com/makholodova/flight-scoreboard-client "Frontend")
 
-Frontend - Vue3.js, Nuxt.js, HTML5,CSS3(SASS/SCSS) - [Paper-things]( https://github.com/makholodova/paper-things "Frontend")
+2. Frontend - Vue3.js, Nuxt.js, HTML5,CSS3(SASS/SCSS) - [Paper-things]( https://github.com/makholodova/paper-things "Frontend")
+
+***
 
 ### Education
 
-University:uban State Technological University, Industrial and civil construction
+**University:** Kuban State Technological University, Industrial and civil construction
 
-Courses: RS Schools Course «JavaScript/Front-end» (in progress)
+**Courses:** RS Schools Course «JavaScript/Front-end» (in progress)
+
+***
 
 ### Language:
 
