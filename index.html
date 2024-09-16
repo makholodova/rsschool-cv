@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <title>Marina Kholodova</title>
     <link href="./assets/img/favicon.ico" rel="icon">
     <link href="https://fonts.googleapis.com" rel="preconnect">
@@ -11,10 +12,11 @@
 
     <link href="./css/resetCss.css" rel="stylesheet">
     <link href="./css/style.css" rel="stylesheet">
+    <link href="./css/media.css" rel="stylesheet">
 </head>
 <body>
 <header class="header ">
-    <div class="container header-row">
+    <div class="header-container header-row">
         <div class="header-column">
             <h1 class="header-title">Marina <span>Kholodova</span></h1>
             <p class="header-text"> Frontend Developer</p>
@@ -44,14 +46,14 @@
                 </ul>
             </nav>
         </div>
-        <img alt="my photo" class="header-img" height="400" src=./assets/img/foto.png width="386">
+        <img alt="my photo" class="header-img" src=./assets/img/foto.png>
     </div>
 </header>
 
 <main class="">
     <div class="container content ">
         <div class="content-left">
-            <div class="section" id="contacts">
+            <div class="section " id="contacts">
                 <ul class="section-info">
                     <li>
                         <a class="contacts-item link" href="mailto:marinaholodova927@gmail.com" target="_blank" title="email">
@@ -79,18 +81,18 @@
                     </li>
                 </ul>
             </div>
-            <section class="section" id="skills">
+            <section class="section section-left" id="skills">
                 <h2 class="section-title">Skills</h2>
                 <div>
                     <ul class="section-info">
                         <li>
+                            <span>Web-development:</span> HTML5,CSS3, (SASS/SCSS), JavaScript, TypeScript
+                        </li>
+                        <li>
+                            <span>Frameworks:</span> Vue.js, Nuxt.js, Vuetify3.js
+                        </li>
+                        <li>
                             <span>Programming language:</span> C#
-                        </li>
-                        <li>
-                            <span>Frameworks:</span> React.js,Vue.js, Nuxt.js, Vuetify3.js
-                        </li>
-                        <li>
-                            <span>Web-development:</span> HTML5,CSS3, (SASS/SCSS),JavaScript
                         </li>
                         <li>
                             <span>API:</span> RESTApi, axios
@@ -107,7 +109,7 @@
                     </ul>
                 </div>
             </section>
-            <section class="section" id="languages">
+            <section class="section section-left" id="languages">
                 <h2 class="section-title">Language</h2>
                 <div class="section-info">
                     <p><span>Russian</span> - Native</p>

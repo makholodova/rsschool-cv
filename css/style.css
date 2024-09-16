@@ -4,9 +4,9 @@ html {
 }
 
 body {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+    height: 100vh;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
     font-family: 'Poppins', sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
@@ -15,6 +15,11 @@ body {
 }
 
 .container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.header-container{
     max-width: 1100px;
     margin: 0 auto;
     padding: 0 15px;
@@ -78,10 +83,13 @@ header {
 }
 
 .header-img {
+    height: 400px;
+    width: 386px;
     display: block;
     border-radius: 50px;
     border: 15px solid #DAD7D6;
 }
+
 /*Footer*/
 .footer {
     background: #D9D9D9;
